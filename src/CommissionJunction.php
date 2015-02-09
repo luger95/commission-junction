@@ -5,7 +5,12 @@ class CommissionJunction {
 
     public function __construct()
     {
-        return 'Elliott';
+        return true;
+    }
+
+    public function test ()
+    {
+        return 'worked';
     }
 
 }
