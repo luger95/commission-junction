@@ -1,4 +1,4 @@
-<?php namespace Ejarnutowski\CommissionJunction;
+<?php namespace Ejarnutowski;
 
 
 class CommissionJunction {
